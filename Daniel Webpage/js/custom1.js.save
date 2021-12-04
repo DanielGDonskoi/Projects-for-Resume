@@ -1,0 +1,7 @@
+function cursorchange() {
+  document.body.style.cursor = "wait";
+}
+function cursorchange2() {
+  document.body.style.cursor= "auto";
+}
+
