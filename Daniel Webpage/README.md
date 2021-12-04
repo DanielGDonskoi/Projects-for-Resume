@@ -1,4 +1,4 @@
-# CS 1XA3 Project02 - guoussed
+
 ## Overview
 This webpage is Daniel Guoussev Donskoi's custom CV which was implemented on an open source html template...
 ## Custom Javascript Code
