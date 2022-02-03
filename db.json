@@ -1,0 +1,19 @@
+{
+  "assignments": [
+    {
+      "name": "Assignment 1",
+      "coursecode": "3AC3",
+      "id": 6
+    },
+    {
+      "name": "Lab 2",
+      "coursecode": "3SH3",
+      "id": 7
+    },
+    {
+      "name": "Discussion Post 1",
+      "coursecode": "1XX3",
+      "id": 8
+    }
+  ]
+}
